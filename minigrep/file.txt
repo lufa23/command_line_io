@@ -1,1 +1,5 @@
-This is a wonderful marvellous file with an intent, and even if it's full of useless content, by learning rust i will be content. I will now present, a committed file full of sentiment
+This is a wonderful marvellous file with an intent,
+and even if it's full of useless content,
+by learning rust i will be content.
+I will now present,
+a committed file full of sentiment
